@@ -1,0 +1,45 @@
+.clearfix {
+	overflow: auto;
+}
+
+h1 {
+	text-align: center;
+	background-color:white;
+	font-family: 'Bungee Shade', cursive;
+}
+
+
+html { 
+ background: url(images/popcorn.jpg) no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+table {
+	width: 75%;
+	background-color: #D6D183;
+	table-layout: middle;
+	text-align: center;
+	margin-top: 75px;
+	margin-left: 200px;
+	border: 3px, #2D2600;
+}
+
+form {
+	float: left;
+	width: 200px;
+	background-color: #9C956C;
+	text-align: center;
+	align-self: center;
+}
+.title{
+	margin-left: 450px;
+}
+div{
+
+}
+
+
+
